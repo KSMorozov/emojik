@@ -1,5 +1,5 @@
 {
-  "name": "foobar",
+  "name": "emojik",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Owl/foobar.git"
+    "url": "git://github.com/KSMorozov/emojik.git"
   },
   "author": "Owl",
   "license": ""
